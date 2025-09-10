@@ -1,0 +1,29 @@
+========================
+HARD PROBLEM STATEMENTS
+========================
+
+SIH25045 — Blockchain-Based Supply Chain Transparency for Agricultural Produce
+
+PS 25038 – Blockchain-Based Blue Carbon Registry & MRV System
+-------------------------------------------------------------
+Category: Software
+Description: Develop a blockchain-powered platform to record, verify, and manage blue carbon credits from coastal and marine ecosystems. The system should support transparent Monitoring, Reporting, and Verification (MRV) of carbon data.
+Need: A tamper-proof registry that enables policymakers and stakeholders to track carbon credits accurately.
+Difficulty: Hard
+Suggested Tech Stack: Solidity (smart contracts), Ethereum/Hyperledger blockchain, Node.js backend, React frontend.
+
+PS 25039 – Integrated Platform for Ocean Hazard Reporting & Social Media Analytics
+---------------------------------------------------------------------------------
+Category: Software
+Description: Create a platform where citizens can report ocean-related hazards (oil spills, algal blooms, etc.). The system should also monitor and analyze social media data to detect possible hazards early.
+Need: Real-time hazard reporting integrated with social media analytics to improve marine safety and disaster response.
+Difficulty: Hard
+Suggested Tech Stack: Python (FastAPI, NLP libraries), MongoDB database, React frontend, Social Media APIs (Twitter/X, Facebook).
+
+PS 25040 – FloatChat: AI Conversational Interface for ARGO Ocean Data Visualization
+-----------------------------------------------------------------------------------
+Category: Software
+Description: Build an AI chatbot that allows users to query ARGO oceanographic datasets (temperature, salinity, currents, etc.) in natural language. The system should generate visualizations and provide insights conversationally.
+Need: Making complex oceanographic data accessible through an intelligent conversational interface.
+Difficulty: Hard
+Suggested Tech Stack: Python (Transformers, LangChain), Streamlit/Dash for interactive dashboards, Vector Database (FAISS, Pinecone), React for chat UI.

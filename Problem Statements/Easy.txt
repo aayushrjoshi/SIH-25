@@ -1,0 +1,40 @@
+========================
+EASY PROBLEM STATEMENTS
+========================
+PS 25049 – AI-Driven Public Health Chatbot for Disease Awareness
+----------------------------------------------------------------
+Category: Software
+Description: Develop an AI-powered chatbot that provides accessible health education and disease awareness. The system should guide users with reliable health information, preventive measures, and awareness campaigns through an interactive conversational interface.
+Need: To make healthcare knowledge more accessible to the general public, reducing misinformation and supporting awareness initiatives.
+Difficulty: Medium
+Suggested Tech Stack: Python (Transformers, Rasa/Chatbot frameworks), Django/Flask backend, MongoDB/PostgreSQL database, React/Flutter frontend.
+
+PS 25050 – Smart Traffic Management System for Urban Congestion
+---------------------------------------------------------------
+Category: Software
+Description: Build a smart traffic control system that uses data-driven models and real-time optimization to manage urban traffic congestion. The system should monitor
+
+
+PS 25033 – AI-Based Smart Allocation Engine for PM Internship Scheme
+--------------------------------------------------------------------
+Category: Software
+Description: Develop an AI-powered system that intelligently allocates students to internship opportunities under the Prime Minister’s Internship Scheme. The system should consider student profiles, preferences, and available positions to ensure fair and optimal matching.
+Need: A matching algorithm that reduces manual work and ensures the right candidate is placed in the right internship.
+Difficulty: Easy
+Suggested Tech Stack: Python (basic ML libraries), Django/Flask for backend, PostgreSQL for database, React for frontend.
+
+PS 25034 – AI-Based Recommendation Engine for PM Internship Scheme
+-------------------------------------------------------------------
+Category: Software
+Description: Build a recommendation engine that suggests the most suitable internships to applicants based on their skills, background, and interests. Unlike allocation, this focuses on personalized suggestions to guide applicants.
+Need: AI logic to recommend best-fit internships, improving transparency and user experience.
+Difficulty: Easy
+Suggested Tech Stack: Python (scikit-learn), Django/Flask backend, PostgreSQL, React frontend.
+
+PS 25035 – Sentiment Analysis of Public Comments via E-Consultation
+-------------------------------------------------------------------
+Category: Software
+Description: Create an NLP-based tool that analyzes public feedback from online e-consultation portals. The system should categorize comments into positive, negative, or neutral sentiment and summarize public opinion for policymakers.
+Need: Automating the process of analyzing large volumes of public comments to extract useful insights.
+Difficulty: Easy
+Suggested Tech Stack: Python (spaCy, NLTK, Transformers), Flask/Django, PostgreSQL, Chart.js for visualization.
